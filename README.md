@@ -8,3 +8,7 @@
 
 * Skammstöfunin ROM stendur fyrir Read Only Memory. ROM er með data sem er fast inní því sem er ekki hægt að eyða úr nema með UV light
 
+##3. Hvað er fyrirbyggjandi viðhald?
+
+* Það er regluleg skoðun eins og í fyrri Windows versions að defragga og scan disk. Eyða unused programms til að fría pláss, hreinsa registry og scanna fyrir spyware og virusum.
+
