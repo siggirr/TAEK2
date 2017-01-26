@@ -27,7 +27,7 @@
 * skref 3 er að prófa kenninguna til að ákhveða hvað það er sem öllir bilun.
 * skref 4 er að búa sér til áætlun um aðgerð til að laga vandamálið og reyna að finna lausn við því vandamáli.		
 * skref 5 er að staðfesta að kerfið skilar réttri virkni og fara yfir hvort að fyrir byggjandi aðgerði séu til að passa betur up á að kerfið sjé öruggara til framtíðar.
-* skref 6 er að fara yfir með kúnna um hvað var að tölvunni og gefa alla papírs vinnu og láta kúnna staðfesta að kerfið/talvan virkar rétt.
+* skref 6 er að fara yfir með kúnna um hvað var að tölvunni og gefa alla papírs vinnu og láta kúnna staðfesta að kerfið/talvan virkar rétt. Svo þarf að skrá niður allar lausnir sem fundust á meðan viðgerð var gerð.
 
 ##7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 
@@ -40,3 +40,7 @@ Close ended spurningar eru spurningar sem er einungis svarað með 'já' eða 'n
 ##9. Nefndu þrjú dæmi um inntakstæki.
 
 * Inntakstæki(Input Device) eru tæki sem eru tengt við tölvuna eins og hljóðnemi"microphone", músin og lyklaborð. Hátalarar og headphones eru output device sem gefa frá sér. Hljóðnemi er flokkað sem inntakstæki þegar þú talar í hann og það fer út í heim til "teammates" þá er það Input.
+
+##10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góðaleikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+* 
