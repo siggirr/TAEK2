@@ -43,4 +43,11 @@ Close ended spurningar eru spurningar sem er einungis svarað með 'já' eða 'n
 
 ##10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góðaleikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 
-* 
+* Kassi: Cooler Master Silencio 550. VerðKr: 17991. Staður: Tölvulistinn.
+* Aflgjafi: Corsair AX860 860W. VerðKr: 35900. Staður: Tölvutækni
+* Móðurborð: Gigabyte GA-Z170X-Gaming3: VerðKr: 31900. Staður: Tölvutækni
+* Örgjörvi: Intel Core i5-6400 2.7GHz LGA1151 Skylake. VerðKr: 26900. Staður: Tölvutækni
+* RAM: Crucial 8GB (1x8GB) DDR4 2133MHz. VerðKr: 6950. Staður: Tölvutækni
+* Skjákort: Geforce GTX 1050 2 GB. VerðKr: 22450. Staður: att.is
+* Harðurdiskur: Samsung 750 EVO 250GB 2.5" SSD SATA 6.0Gb/s. VerðKr: 15900. Staður: Tölvutækni
+* kæling: Noctua NH-L12 Low-Profile örgjörvakæling. VerðKr: 11990 Staður: Tölvutækni
