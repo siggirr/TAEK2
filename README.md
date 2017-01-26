@@ -19,3 +19,16 @@
 ##5. Hvað þarf að hafa í huga við val á spennugjöfum?
 
 * Í fyrsta lagi þarf að hugsa um  öll hardware sem á að fara í tölvuna ef það er t.d. mjög öflugt skjákort þarf að íhuga í öflugri og sterkari Aflgjafa.
+
+##6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+
+* skref 1 er að greina eða finna vandamálið.
+* skref 2 er að búa til kenningu um hvað gæti verið að. 
+* skref 3 er að prófa kenninguna til að ákhveða hvað það er sem öllir bilun.
+* skref 4 er að búa sér til áætlun um aðgerð til að laga vandamálið og reyna að finna lausn við því vandamáli.		
+* skref 5 er að staðfesta að kerfið skilar réttri virkni og fara yfir hvort að fyrir byggjandi aðgerði séu til að passa betur up á að kerfið sjé öruggara til framtíðar.
+* skref 6 er að fara yfir með kúnna um hvað var að tölvunni og gefa alla papírs vinnu og láta kúnna staðfesta að kerfið/talvan virkar rétt.
+
+##7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+
+Close ended spurningar eru spurningar sem er einungis svarað með 'já' eða 'nei'.Open ended spurningar eru hinsvegar spurningar sem þarf að hugsa bettur út í heldur en að svara bara með einfaldu já eða nei.
