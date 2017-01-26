@@ -32,3 +32,11 @@
 ##7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 
 Close ended spurningar eru spurningar sem er einungis svarað með 'já' eða 'nei'.Open ended spurningar eru hinsvegar spurningar sem þarf að hugsa bettur út í heldur en að svara bara með einfaldu já eða nei.
+
+##8. Hvað eru jaðartæki?
+
+* Jaðartæki eru hlutir sem tengjast beint við tölvu eins og t.d. músin,lyklaborð,hátlarar, hljóðnemi og skjárinn.
+
+##9. Nefndu þrjú dæmi um inntakstæki.
+
+* Inntakstæki(Input Device) eru tæki sem eru tengt við tölvuna eins og hljóðnemi"microphone", músin og lyklaborð. Hátalarar og headphones eru output device sem gefa frá sér. Hljóðnemi er flokkað sem inntakstæki þegar þú talar í hann og það fer út í heim til "teammates" þá er það Input.
